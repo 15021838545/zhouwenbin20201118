@@ -1,0 +1,5 @@
+# {LoginPage:{ account: 'i,account',  password: 'i,password',  submit: 'i,submit'}}
+denglu:
+  account: 'i,account'
+  password: 'i,password'
+  submit: 'i,submit'

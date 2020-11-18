@@ -1,0 +1,11 @@
+- canshu : {"mobilephone":"12345678912","pwd":"12345"}
+  jieguo : {"status":0,"code":"20111","data":null,"msg":"用户名或密码错误"}
+
+- canshu : {"mobilephone":"12345678913","pwd":""}
+  jieguo : {"status":0,"code":"20103","data":null,"msg":"密码不能为空"}
+
+- canshu : {"mobilephone":"","pwd":"qwertyuio"}
+  jieguo : {"status":0,"code":"20103","data":null,"msg":"手机号不能为空"}
+
+- canshu: {"mobilephone":"13545241236","pwd":"123456"}
+  jieguo: {"status":1,"code":"10001","data":null,"msg":"登录成功"}
